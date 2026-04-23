@@ -1,1 +1,1 @@
-"# Deep-Learning-School" 
+Репозиторий с выполненными домашними заданиями курса Deep Learning School.
